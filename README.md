@@ -25,4 +25,4 @@ Despite the initial difficulties in adapting to new workflows, the final result 
 This dashboard is just the beginning. I am proud of the progress made from my early Excel projects to this point. I am already planning my next Power BI initiatives, where I aim to implement more complex functions and even more advanced visual storytelling.
 
 ---
-**Tools Used:** Power BI, DAX, Excel.
+**Tools Used:** Power BI, DAX**.
